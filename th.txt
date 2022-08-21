@@ -1,0 +1,15 @@
+//JDK   --> java development KTIT
+//JRE   --> JAVA RUNTIME ENVIRONMENT  -->to run any java programme sysytem required JRE
+//JVM   --> JAVA virtual machine     --> to compile any java programme sysytem required JRE
+
+--> .java --> compile --> .class[byte code]
+
+advantegs java -->
+1)dynamic memory allocation ROBUST ->
+2)rich library
+3)multithreaded environemnt
+4)oops
+
+
+javac Hello.java
+java Hello
