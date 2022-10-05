@@ -1,0 +1,53 @@
+Polymorephsiam : many forms of the functions
+
+2 type of plymore...
+
+1) static binding / method overloading 				dynamic binding / method overriding
+    compile time poly							runtime ploy
+
+
+method overloading --> 
+same name method created in same class with different arguments it called method overloading..
+
+search(int price);
+search(int price,String name);
+search(String name)
+
+
+overriding
+parent class method created in child class with same signature .....
+can not create an object of interfaace....
+data name param
+
+exception 
+
+exception is nothing but runtime issue which stops continues flow of the programme
+
+Error -->
+syntax error
+
+int a
+public demo();
+
+error needs to be resloved...
+
+error comes only compile time....
+
+				Throwable
+
+		Error				Exception
+
+							n no of child....
+
+Exception needs to be handle...
+
+2 ways to handle exception
+
+try catch anf finally block
+throws keyword
+
+type of exception
+
+compile time / checkd exception
+runtime exception / unchecked exception
+
