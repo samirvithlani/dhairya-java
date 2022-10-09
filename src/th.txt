@@ -51,3 +51,65 @@ type of exception
 compile time / checkd exception
 runtime exception / unchecked exception
 
+abstact  100 % 
+0 to 100 range..
+------------------------
+
+
+Error Erorr class
+
+								Throwable 
+								
+                Error								Excpetion
+                 no 									n....
+                								
+Error --> syntax issue , protocol ..
+
+	compile time...
+	to run a programme we need resolve error compulsary...
+
+Excpetion --> logical infrtstructure..
+
+exception runtime compile 
+
+excpeiton handling is optional
+
+Type of exception
+
+1) runtime exception (| unchecked exception) 
+	it might come or not
+
+2)compile time exception (checked exception)
+	compile time exception its compulsary to handle....
+	
+----------------------
+
+2  ways to handle exception
+
+
+try catch finally block
+
+
+throws keyword...
+
+try {
+}catch compulsy finaly
+
+
+finally:exception comes finaly
+not 
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
